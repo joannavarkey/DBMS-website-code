@@ -82,7 +82,8 @@ a:hover {
 }
 h1 {
 	padding:27px 0 0 41px;
-	float:left
+	float:left;
+	
 }
 h2 {
 	font-size:20px;
@@ -119,6 +120,14 @@ h4 {
 	line-height:1.2em;
 	padding:0 0 14px 0;
 	letter-spacing:-1px
+}
+h5
+{
+	text-align: center;
+	font-size: 25px;
+	height: fit-content;
+	color:rgb(247, 213, 22);
+	font-family:'Times New Roman', Times, serif;
 }
 p {
 	padding-bottom:18px
